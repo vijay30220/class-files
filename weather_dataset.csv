@@ -1,0 +1,6 @@
+Temperature,Humidity,Wind_Speed,Cloud_Cover,Outcome
+25,70,5,30,play
+30,65,8,20,play
+22,75,3,40,noplay
+28,80,7,25,play
+20,60,4,50,noplay
